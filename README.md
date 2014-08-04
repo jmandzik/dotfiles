@@ -52,3 +52,14 @@ Install Additional Tools
 * `webdriver-manager update`
 * [Bartender](http://www.macbartender.com)
 * [Fluid](http://fluidapp.com)
+* `apm list` 
+```
+├── atom-beautify@0.5.2
+├── format-sql@0.1.1
+├── git-blame@0.2.4
+├── git-plus@3.10.1
+├── linter@0.4.11
+├── linter-jshint@0.0.17
+├── ruby-test@0.7.0
+├── sort-lines@0.7.0
+└── syntax-settings@0.7.1```
