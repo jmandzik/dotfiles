@@ -48,7 +48,7 @@ Install Additional Tools
 =================
 
 * [Atom](https://github.com/atom/atom/releases/latest) - Code Editor
-* `npm install -g gulp karma-cli protractor jshint`
+* `npm install -g gulp karma-cli protractor jshint json curl-trace-parser`
 * `webdriver-manager update`
 * [Bartender](http://www.macbartender.com)
 * [Fluid](http://fluidapp.com)
